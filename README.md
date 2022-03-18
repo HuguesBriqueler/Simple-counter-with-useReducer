@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Simple counter with useReduce Mini-project
+Code project was transferred from my CodeSandBox account.
+It demonstrate the usage of useReducer in a very simple way.
+Note the usage of a separate "actions file" (Counter.actions.js) in order to avoid typo when using action names. This also produces cleaner code.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
